@@ -9,11 +9,19 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = primeiraAPI
 build_property.RootNamespace = primeiraAPI
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\151198\Projetos\Bootcamp\primeiraAPI\
+=======
+build_property.ProjectDir = C:\Users\leo1t\Projetos\Bootcamp\primeiraAPI\primeiraAPI\
+>>>>>>> c872991cdc3c9ace1276861c82cce7559b5e0309
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = c:\Users\151198\Projetos\Bootcamp\primeiraAPI
+=======
+build_property.MSBuildProjectDirectory = C:\Users\leo1t\Projetos\Bootcamp\primeiraAPI\primeiraAPI
+>>>>>>> c872991cdc3c9ace1276861c82cce7559b5e0309
 build_property._RazorSourceGeneratorDebug = 
