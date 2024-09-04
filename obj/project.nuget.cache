@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FYpdy4oDd8E=",
+  "dgSpecHash": "tS3+Bt8a7wc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\151198\\Projetos\\Bootcamp\\primeiraAPI\\primeiraAPI.csproj",
+  "projectFilePath": "c:\\Users\\151198\\Projetos\\Bootcamp\\primeiraAPI\\primeiraAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\151198\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\151198\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
